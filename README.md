@@ -6,7 +6,7 @@ when a server fails halfway through setup.
 - **Radisys, for Deutsche Telekom (2023–24):** built the Go service that provisions bare-metal servers into
   Kubernetes clusters for a ~900-site fibre broadband rollout.
 - **Now building:**
-  - [ai-support-agent](https://github.com/MidNight91119/support-agent): an AI support agent where the backend, not the model, enforces refunds, approvals and one action per order.
+  - [ai-support-agent](https://github.com/MidNight91119/ai-support-agent): an AI support agent where the backend, not the model, enforces refunds, approvals and one action per order.
   - [perps-exchange](https://github.com/MidNight91119/perps-exchange): a perpetual-futures exchange with price-time matching, margin, funding and liquidation.
   - [simplebank](https://github.com/MidNight91119/simplebank): a payments backend with deadlock-safe transfers, gRPC + REST, deployed on AWS EKS.
 
