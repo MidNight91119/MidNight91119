@@ -3,7 +3,7 @@
 I build backends that stay correct when things go wrong: under concurrent requests, when the AI model is wrong,
 when a server fails halfway through setup.
 
-- **Radisys, for Deutsche Telekom (2023–24):** built the Go service that provisions bare-metal servers into
+- **Radisys, for Deutsche Telekom (2023–24):** worked on the Go control plane that provisions bare-metal servers into
   Kubernetes clusters for a ~900-site fibre broadband rollout.
 - **Now building:**
   - [ai-support-agent](https://github.com/MidNight91119/ai-support-agent): an AI support agent where the backend, not the model, enforces refunds, approvals and one action per order.
